@@ -83,12 +83,3 @@ The performance of the model is evaluated by metrics such as Precision, Recal, a
 | YOLOv8  |   0.944   |  0.915 |   0.93   |   0.95  |    0.804     |
 
 
-## Web App
-The trained model has been deployed on Hugging Face for practical use.
-- you can access the deployed [web app](https://huggingface.co/spaces/ldebele/animal_detection_app)
-
-## Contributing
-Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or a pull request.
-
-## Author
-- `Lemi Debele`
